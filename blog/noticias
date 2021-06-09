@@ -1,0 +1,45 @@
+<!-- wp:paragraph -->
+<p>Criado por Eduarda Luisa</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"align":"full","backgroundColor":"background"} -->
+<div class="wp-block-group alignfull has-background-background-color has-background"><!-- wp:jetpack/layout-grid {"column1DesktopSpan":12,"column1TabletSpan":8,"column1MobileSpan":4,"column2DesktopOffset":3,"className":"column1-desktop-grid__span-12 column1-desktop-grid__row-1 column1-tablet-grid__span-8 column1-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1"} -->
+<div class="wp-block-jetpack-layout-grid alignfull column1-desktop-grid__span-12 column1-desktop-grid__row-1 column1-tablet-grid__span-8 column1-tablet-grid__row-1 column1-mobile-grid__span-4 column1-mobile-grid__row-1"><!-- wp:jetpack/layout-grid-column -->
+<div class="wp-block-jetpack-layout-grid-column wp-block-jetpack-layout-grid__padding-none"><!-- wp:heading {"level":4} -->
+<h4>Guedes diz que governo renovará auxílio emergencial 'por dois ou três meses'</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Ministro da Economia não detalhou o valor das novas parcelas, que hoje variam de R$ 150 a R$ 375. Atual etapa do auxílio emergencial está prevista para ser paga até julho.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://i0.statig.com.br/bancodeimagens/5u/26/ow/5u26owvnp5tc3zz2vcb82f4st.jpg" alt="Auxílio emergencial pode ultrapassar setembro e avançar até o fim da  vacinação | Economia | iG"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:jetpack/layout-grid-column --></div>
+<!-- /wp:jetpack/layout-grid --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph -->
+<p><strong>China aprova uso da CoronaVac para crianças a partir de 3 anos, diz Sinovac</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>País é o primeiro no mundo a aprovar uma vacina contra a Covid-19 em crianças. Pfizer ampliou número de menores de 12 anos em testes de vacina. A CoronaVac é uma das três vacinas que estão sendo usadas no Brasil.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://midia.gruposinos.com.br/_midias/jpg/2020/12/08/coronavac-19340442.jpg" alt="Organização Mundial da Saúde aprova Coronavac para uso emergencial -  Especial Coronavírus - Diário de Canoas"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>Sites fora do ar no mundo: entenda o que causou a falha</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Veículos como 'The New York Times', 'Financial Times' e 'CNN', além de Spotify e Reddit ficaram fora do ar nesta manhã. Erro teve origem no Fastly, um provedor de serviços de computação na nuvem baseado nos Estados Unidos.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://tudosobrehospedagemdesites.com.br/site/wp-content/uploads/2016/09/site-fora-do-ar-o-que-fazer-2018_destaque.png" alt="Site fora do ar: o que fazer quando isso acontece e como evitar"/></figure>
+<!-- /wp:image -->
